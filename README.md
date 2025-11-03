@@ -32,3 +32,11 @@ Fungsi : untuk menghitung rata rata seluruh siswa
 Cara kerja : pengguna menginput jumlah siswa dan nilai seluruh siswa
 
 <img width="343" height="147" alt="image" src="https://github.com/user-attachments/assets/028a6a57-0ef3-4a50-b093-1db89c049ec0" />
+
+PraktekUKL6
+
+Fungsi : untuk menghitung penjumlahan matriks
+Cara kerja : pengguna menginput jumlah kolom dan baris yang diinginkan dan menginput nilai pada masing masing matriks
+
+<img width="433" height="331" alt="image" src="https://github.com/user-attachments/assets/cdf4b695-b33f-4bdd-9f4d-bf248ac02531" />
+
