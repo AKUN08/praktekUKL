@@ -14,7 +14,14 @@ Cara kerja : pengguna menginput suatu bilangan positif
 
 PraktekUKL3
 
-Fungsi : UNtuk menghitung bilangan faktorial
+Fungsi : Untuk menghitung bilangan faktorial
 Cara kerja : pengguna menginput bilangan positif yang ingin di faktorialkan
 
 <img width="205" height="41" alt="image" src="https://github.com/user-attachments/assets/b98065d3-d9c1-47e3-aef7-4a191597d664" />
+
+PraktekUKL4
+
+Fungsi : Untuk menghitung volume tabung
+Cara kerja : pengguna meninput tinggi dan jari jari tabung 
+
+<img width="414" height="106" alt="image" src="https://github.com/user-attachments/assets/23300999-8406-4c52-88dc-0434b0778880" />
